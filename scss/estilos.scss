@@ -1,0 +1,39 @@
+@import "variables"; @import "footer"; @import "index";@import "header";
+/*reset page*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .carousel-inner {
+    max-height: 39rem;
+  }
+  
+  i {
+    font-size: 35px;
+    padding: 3px;
+  }
+  
+  .tarjetas {
+    width: 150px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .accordion {
+    width: 25rem;
+    margin: 10px;
+  }
+  
+  .darkoEd {
+    width: 80%;
+  }
+  
+  #form {
+    background-color: black;
+  }
